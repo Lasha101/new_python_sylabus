@@ -75,12 +75,19 @@ JS, HTML და CSS-ის მიმოხილვა
 - PostgreSQL, Swagger და ფაილების მენეჯმენტი
 
 # **თავი 17**
-- Advanced Django
-- 
+- Advanced Django - ასინქრონული Django:
+Websocket(django chanells)
 
+# **თავი 18**
+- ქეშირება Django-ში
+- Redis - ქეშირება
 
+# **თავი 17**
+- Redis-ი როგორც არა-რელაციური მონაცემდა ბაზა
+- MongoDb
 
-
+# **თავი 18**
+- ტესტირება
 
 
 

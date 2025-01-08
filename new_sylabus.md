@@ -46,9 +46,37 @@ HTTP/HTTPS პროტოკოლების მიმოხილვა
 JS, HTML და CSS-ის მიმოხილვა
 - Flask / Jinja2
 
+# **თავი 11**
+- შესავალი FastAPI-ში
+- SQLAlchemy, Pydantic და Uvicorn 
+
+# **თავი 12**
+- ასინქრონული FastAP
+- Websocket და Alembic
+
+# **თავი 13**
+- Advanced FastAPI
+- SOLID პრინციპები
+
+# **თავი 14**
+- შესავალი Django-ში
+- Django Admin
+- Models და Views
+
+# **თავი 15**
+- შესავალი DRF-ში
+- Serializers და CRUD ოპერაციები
+- DRF კლასები
 
 
+# **თავი 16**
+- რეგისტრაცია და აუთენტიფიკაცია-JWT Tokens
+- პაგინაცია, ფილტრაცია და ავტორიზაცია
+- PostgreSQL, Swagger და ფაილების მენეჯმენტი
 
+# **თავი 17**
+- Advanced Django
+- 
 
 
 

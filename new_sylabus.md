@@ -85,10 +85,24 @@ Websocket(django chanells)
 - Celery
 
 # **თავი 19**
-- ტესტირება
+- ტესტირება:
+Django Project
+FastAPI Project
 
 # **თავი 20**
--
+- Docker
+- Docker Compose
+
+# **თავი 21**
+- CI/CD Pipeline
+- მასშტაბირება უსაფრთხოება
+
+
+
+
+
+
+
 
 
 

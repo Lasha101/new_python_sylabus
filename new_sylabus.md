@@ -91,6 +91,7 @@ Websocket(django chanells)
 
 # **თავი 20**
 - ტესტირება:
+
 Django Project
 
 FastAPI Project

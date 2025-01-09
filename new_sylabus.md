@@ -64,7 +64,7 @@ JS, HTML და CSS-ი
 - SQLAlchemy, Pydantic და Uvicorn 
 
 # **თავი 14**
-- ასინქრონული FastAP
+- ასინქრონული FastAPI
 - Websocket და Alembic
 
 # **თავი 15**

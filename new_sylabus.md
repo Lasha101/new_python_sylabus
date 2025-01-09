@@ -35,18 +35,17 @@
 - ობიექტზე მიმართული პროგრამირება
 
 # **თავი 9**
-- გარეშე ბიბლიოთეკები: NumPy და Pandas
+- გარეშე ბიბლიოთეკები: NumPy-ი და Pandas-ი
 - ურთიერთკავშირები ცხრილებს შორის - რელაციები
 - მონაცემთა ტრანზაქციები SQLite-ს და ".csv" გაფართოების ფაილს შორის NumPy-ს და Pandas-ის გავლით
 
 # **თავი 10**
-- პითონის და VSCode-ის ინსტალაცია
-- ლოკალური სამუშაო გარემოს გამართვა
+- ლოკალური სამუშაო გარემოს გამართვა - პითონის და VSCode-ის ინსტალაცია
 - კომპიუტერის არქიტექტურა და ოპერაციული სისტემები(ლინუქსი)
 - არხები და ასინქრონულობა
 
 # **თავი 11**
-- Git, GitHub და ვირტუალური გარემო
+- Git-ი, GitHub-ი და ვირტუალური გარემო
 - შესავალი ვებში:
 
 HTTP/HTTPS პროტოკოლების მიმოხილვა
@@ -55,17 +54,17 @@ JS, HTML და CSS-ი
 
 # **თავი 12**
 - შესავალი Flask-ში
-- Jinja2 და Flask Forms
+- Jinja2 და Flask Forms-ი
 - CRUD ოპერაციები
 - რეგისტრაცია და აუთენტიფიკაცია
 
 # **თავი 13**
 - შესავალი FastAPI-ში
-- SQLAlchemy, Pydantic და Uvicorn 
+- SQLAlchemy, Pydantic-ი და Uvicorn-ი 
 
 # **თავი 14**
 - ასინქრონული FastAPI
-- Websocket და Alembic
+- Websocket-ი და Alembic-ი
 
 # **თავი 15**
 - Advanced FastAPI
@@ -73,7 +72,7 @@ JS, HTML და CSS-ი
 
 # **თავი 16**
 - შესავალი Django-ში
-- Django Admin
+- Django Admin-ი
 - Models და Views
 
 # **თავი 17**
@@ -86,7 +85,7 @@ JS, HTML და CSS-ი
 # **თავი 18**
 - რეგისტრაცია და აუთენტიფიკაცია-JWT Tokens
 - პაგინაცია, ფილტრაცია და ავტორიზაცია
-- PostgreSQL და ACID პრინციპები
+- PostgreSQL-ი და ACID პრინციპები
 
 
 # **თავი 19**
@@ -108,11 +107,11 @@ Django Project
 FastAPI Project
 
 # **თავი 22**
-- Docker
-- Docker Compose
+- Docker-ი
+- Docker Compose-ი
 
 # **თავი 23**
-- CI/CD Pipeline
+- CI/CD Pipeline-ი
 - მასშტაბირება და უსაფრთხოება
 
 # **თავი 24**

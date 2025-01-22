@@ -64,7 +64,13 @@ def ქივორდი + ფუნქციის სახელი + "()" �
 - for ციკლი
 - მონაცემთა სტრუქტურები და მათი მეთოდები:
 
-სია, ლექსიკონი, სიმრავლე და კორტეჟი
+- სია - append(), clear(), copy(), count(), extend(), index(), insert(), pop(), remove(), reverse() და sort() მეთოდები
+- ლექსიკონი - clear(), copy(), fromkeys(), get(), items(), keys(), pop(), popitem(), setdefault(), update() და values()
+- კორტეჟი - count() და index() მეთოდები
+# **სემინარი**
+- სიმრავლე - add(), clear(), copy(), difference(): -, difference_update(): -=, discard(), intersection(): &, intersection_update(): &=, isdisjoint(), issubset(): <=, <, issuperset(): >=, >, pop(), remove(), symmetric_difference(): ^, symmetric_difference_update(): ^=, union(): | და update(): |=
+- ფუნქციების, ციკლების და პირობითი მტკიცებების გამოყენება იარაღის მაღაზიის ანკეტის შესაქმნელად(input(var), answers.append(answer), ...)
+
 
 # **თავი 4 - გამონაკლისები**
 - გამონაკლისების მართვა

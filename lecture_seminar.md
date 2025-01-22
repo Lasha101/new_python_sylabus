@@ -67,6 +67,7 @@ def ქივორდი + ფუნქციის სახელი + "()" �
 - სია - append(), clear(), copy(), count(), extend(), index(), insert(), pop(), remove(), reverse() და sort() მეთოდები
 - ლექსიკონი - clear(), copy(), fromkeys(), get(), items(), keys(), pop(), popitem(), setdefault(), update() და values()
 - კორტეჟი - count() და index() მეთოდები
+
 # **სემინარი**
 - სიმრავლე - add(), clear(), copy(), difference(): -, difference_update(): -=, discard(), intersection(): &, intersection_update(): &=, isdisjoint(), issubset(): <=, <, issuperset(): >=, >, pop(), remove(), symmetric_difference(): ^, symmetric_difference_update(): ^=, union(): | და update(): |=
 - ფუნქციების, ციკლების და პირობითი მტკიცებების გამოყენება იარაღის მაღაზიის ანკეტის შესაქმნელად(input(var), answers.append(answer), ...)
@@ -75,6 +76,13 @@ def ქივორდი + ფუნქციის სახელი + "()" �
 # **თავი 4 - გამონაკლისები**
 - გამონაკლისების მართვა
 - არასტანდარტული გამონაკლისების იმპლემენტაცია-მართვა
+
+# **სემინარი**
+- ციკლების თავში გავლილი მასალის გამყარება:
+
+ჯეისონის მსგავსი მონაცემთა სტრუქტურის შექმნა სიების და ლექსიკონების კომბინაციით და მასზე მანიპულაციები(ციკლით შემორბენა და მონაცემების ამოღება)
+
+- პროექტი გამონაკლისების გამოყენებით
 
 # **თავი 5 - ჩაშენებული მოდულები და SQL**
 - ჩაშენებული მოდულები: math, datetime, os, random და sys

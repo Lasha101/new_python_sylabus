@@ -74,8 +74,47 @@ def ქივორდი + ფუნქციის სახელი + "()" �
 
 
 # **თავი 4 - გამონაკლისები**
-- გამონაკლისების მართვა
-- არასტანდარტული გამონაკლისების იმპლემენტაცია-მართვა
+- რა არის გამონაკლისი
+
+- სხვასახვა სტრუქტურის გამონაკლისები:
+
+try/except, try/except/else, try/except/else/finally, if/raise, try/if/raise/except/else/finally
+```
+try:
+  instruction_1
+  instruction_2
+  ... ... ...
+  instruction_n
+except Exception_1:
+  print(error_message_1)
+except Exception_2:
+  print(error_message_2)
+... ... ... ... ...:
+  ... ... ... ... ...
+except Exception_n:
+  print(error_message_n)
+else:
+  last instruction
+finally:
+  always instruction
+```
+ან 
+```
+try:
+  instruction_1
+  instruction_2
+  ... ... ...
+  instruction_n
+except (Exception_1, Exception_2, ... ... ..., Exception_n):
+  print(error_message)
+else:
+  last instruction
+finally:
+  always instruction
+```
+- ხშირად შეხვედრილი გამონაკლისები:
+
+IndentationError, IndexError, KeyError, KeyboardInterrupt, NameError, SyntaxError, TypeError, ValueError, ZeroDivisionError, IOError
 
 # **სემინარი**
 - ციკლების თავში გავლილი მასალის გამყარება:

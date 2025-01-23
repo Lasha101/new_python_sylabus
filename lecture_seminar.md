@@ -165,7 +165,7 @@ IndentationError, IndexError, KeyError, KeyboardInterrupt, NameError, SyntaxErro
 
 HTTP/HTTPS პროტოკოლების მიმოხილვა
 
-CRUD - HTTP რექუესთების აგებულება
+CRUD - HTTP რიქუესთების აგებულება
 
 როგორ მუშაობს ინტერნეტი და რა არის ბრაუზერი
 

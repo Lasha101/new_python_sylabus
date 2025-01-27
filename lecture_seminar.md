@@ -159,8 +159,10 @@ IndentationError, IndexError, KeyError, KeyboardInterrupt, NameError, SyntaxErro
 - ობიექტზე მიმართული პროგრამირების უპირატესობები და უარყოფითი მხარეები
 
 # **თავი 9 - გარეშე ბიბლიოთეკები და სხვა დანარჩენი**
+- pip, selenium(რა არის ბრაუზერი ორი სიტყვით), scrapping
 - გარეშე ბიბლიოთეკები: NumPy-ი და Pandas-ი
 - ურთიერთკავშირები ცხრილებს შორის - რელაციები
+- pandas + selenium
 - მონაცემთა ტრანზაქციები SQLite-ს და ".csv" გაფართოების ფაილს შორის NumPy-ს და Pandas-ის გავლით
 
 # **თავი 10 - Development გარემო, Linux-ი და კონკურენტული პროცესირება**

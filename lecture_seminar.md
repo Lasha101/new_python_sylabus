@@ -162,8 +162,10 @@ IndentationError, IndexError, KeyError, KeyboardInterrupt, NameError, SyntaxErro
 - pip, selenium(რა არის ბრაუზერი ორი სიტყვით), scrapping
 - გარეშე ბიბლიოთეკები: NumPy-ი და Pandas-ი
 - ურთიერთკავშირები ცხრილებს შორის - რელაციები
-- pandas + selenium
+
+# **სემინარი** 
 - მონაცემთა ტრანზაქციები SQLite-ს და ".csv" გაფართოების ფაილს შორის NumPy-ს და Pandas-ის გავლით
+- pandas + selenium(scrapping+API+csv+db)
 
 # **თავი 10 - Development გარემო, Linux-ი და კონკურენტული პროცესირება**
 - ლოკალური სამუშაო გარემოს გამართვა - პითონის და VSCode-ის ინსტალაცია

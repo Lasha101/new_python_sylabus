@@ -78,21 +78,24 @@ Download and execute the Tesseract exe installation file: https://digi.bib.uni-m
 
 # **თავი 16 - FastAPI - შესავალი**
 - შესავალი FastAPI-ში
-- SQLAlchemy, Pydantic-ი და Uvicorn-ი 
+- SQLAlchemy(ORM + SQLite), Pydantic-ი და Uvicorn-ი
+- models, schemas, main ... - ფაილების მენეჯმენტი
+- FastAPI - CRUD ოპერაციები
 
 
 # **თავი 17 - Postgresql**
 - ACID პრინციპები(სესია ...) და PostgreSQL-ი
+- რეგისტრაცია და აუთენტიფიკაცია-JWT Tokens
+
 
 # **თავი 18 - FastAPI - real-time app**
-- ასინქრონული FastAPI
 - Redis
+- ასინქრონული FastAPI
 - Websocket-ი
 
 
 # **თავი 19 - არა-რელაციური მონაცემთა ბაზები**
-- რეგისტრაცია და აუთენტიფიკაცია-JWT Tokens
-- პაგინაცია, ფილტრაცია და ავტორიზაცია
+- document, column, graph, key-value
 
 
 # **თავი 20 - API-ს და მისი ცალკეული ფუნქციონალების ტესტირება**

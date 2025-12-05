@@ -89,6 +89,7 @@ Download and execute the Tesseract exe installation file: https://digi.bib.uni-m
 
 
 # **თავი 18 - FastAPI - real-time app**
+- SOLID პინციპები
 - პაგინაცია, ფილტრაცია და ავტორიზაცია
 
 # **თავი 19 - FastAPI - real-time app**

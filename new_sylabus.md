@@ -67,9 +67,11 @@ Download and execute the Tesseract exe installation file: https://digi.bib.uni-m
 # **თავი 15 - შესავალი ვებში და დამხმარე ტექნოლოგიები**
 - ინტერნეტი
 
-- HTTP/HTTPS პროტოკოლების და JS, HTML და CSS-ის  მიმოხილვა
+- HTTP/HTTPS პროტოკოლების და HTML და CSS-ის  მიმოხილვა, ბრაუზერი ...
 
 - ლოკალური სამუშაო გარემოს გამართვა - პითონის და VSCode-ის ინსტალაცია
+
+- მარტივი Scrapping-ი
 
 - Git-ი, GitHub-ი და ვირტუალური გარემო
 
@@ -77,6 +79,7 @@ Download and execute the Tesseract exe installation file: https://digi.bib.uni-m
 # **თავი 16 - FastAPI - შესავალი**
 - შესავალი FastAPI-ში
 - SQLAlchemy, Pydantic-ი და Uvicorn-ი 
+
 
 # **თავი 17 - Postgresql**
 - ACID პრინციპები(სესია ...) და PostgreSQL-ი
@@ -86,6 +89,7 @@ Download and execute the Tesseract exe installation file: https://digi.bib.uni-m
 - Redis
 - Websocket-ი
 
+
 # **თავი 19 - არა-რელაციური მონაცემთა ბაზები**
 - რეგისტრაცია და აუთენტიფიკაცია-JWT Tokens
 - პაგინაცია, ფილტრაცია და ავტორიზაცია
@@ -94,13 +98,16 @@ Download and execute the Tesseract exe installation file: https://digi.bib.uni-m
 # **თავი 20 - API-ს და მისი ცალკეული ფუნქციონალების ტესტირება**
 - ტესტირება 
 
+
 # **თავი 21 - კონტეინერიზაცია**
-- Docker-ი
+- Docker-ი და ვირტუალური მანქანა
 - Docker Compose-ი
+
 
 # **თავი 22 - პროექტის სრული ციკლი: აპლიკაციის დაჰოსტვა და გაშვება**
 - CI/CD Pipeline-ი
 - მასშტაბირება და უსაფრთხოება
+
 
 # **თავი 23 - Django**
 - შესავალი Django-ში
@@ -112,6 +119,7 @@ Download and execute the Tesseract exe installation file: https://digi.bib.uni-m
 - Swagger და ფაილების მენეჯმენტი
 - რეგისტრაცია და აუთენტიფიკაცია-JWT Tokens
 - პაგინაცია, ფილტრაცია და ავტორიზაცია
+
 
 # **თავი 24 - ალგორითმები და მონაცემთა სტრუქტურები**
 - ალგორითმები და მონაცემთა სტრუქტურები:

@@ -58,9 +58,9 @@ Download and execute the Tesseract exe installation file: https://digi.bib.uni-m
 
 # **თავი 14 - Development გარემო, Linux-ი და კონკურენტული პროცესირება**
 - კომპიუტერის არქიტექტურა, მეხსიერების ტიპები
-- რეკურსია
 - ნაკადები და ასინქრონულობა
 - ოპერაციული სისტემები(ლინუქსი)
+- რეკურსია vs ციკლი
 
 
 

@@ -90,7 +90,7 @@ Download and execute the Tesseract exe installation file: https://digi.bib.uni-m
 
 # **თავი 18 - FastAPI - real-time app**
 - SOLID პინციპები
-- პაგინაცია, ფილტრაცია და ავტორიზაცია
+- პაგინაცია, ფილტრაცია და ავტორიზაცია(დავალება: SOLID პრინციპების გამოყენებით გადააკეთონ სემინარზე განზრახ ცუდად დაწერილი კოდი)
 
 # **თავი 19 - FastAPI - real-time app**
 - Redis

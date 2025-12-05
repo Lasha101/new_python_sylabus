@@ -59,8 +59,9 @@ Download and execute the Tesseract exe installation file: https://digi.bib.uni-m
 # **თავი 14 - Development გარემო, Linux-ი და კონკურენტული პროცესირება**
 - კომპიუტერის არქიტექტურა, მეხსიერების ტიპები
 - ნაკადები და ასინქრონულობა
+- BIOS, VM-ვირტუალური მანქანა
 - ოპერაციული სისტემები(ლინუქსი)
-- რეკურსია vs ციკლი
+- stack და heap მეხსიერება, რეკურსია vs ციკლი
 
 
 
@@ -102,8 +103,7 @@ Download and execute the Tesseract exe installation file: https://digi.bib.uni-m
 
 # **თავი 21 - API-ს და მისი ცალკეული ფუნქციონალების ტესტირება, კონტეინერიზაცია**
 - ტესტირება 
-- Docker-ი და ვირტუალური მანქანა
-- Docker Compose-ი
+- Docker-ი და Docker Compose-ი
 
 
 # **თავი 22 - პროექტის სრული ციკლი: აპლიკაციის დაჰოსტვა და გაშვება**

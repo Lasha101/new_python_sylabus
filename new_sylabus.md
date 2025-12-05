@@ -80,7 +80,7 @@ Download and execute the Tesseract exe installation file: https://digi.bib.uni-m
 - შესავალი FastAPI-ში
 - SQLAlchemy(ORM + SQLite), Pydantic-ი და Uvicorn-ი
 - models, schemas, main ... - ფაილების მენეჯმენტი
-- FastAPI - CRUD ოპერაციები
+- FastAPI - CRUD ოპერაციები, Postman-ი
 
 
 # **თავი 17 - Postgresql**

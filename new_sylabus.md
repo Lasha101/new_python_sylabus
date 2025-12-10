@@ -1,4 +1,3 @@
-Download and execute the Tesseract exe installation file: https://digi.bib.uni-mannheim.de/tesseract/tesseract-ocr-w64-setup-v5.2.0.20220712.exe
 # **თავი 1 - შესავალი Python-ში**
 - სამუშაო სივრცის გამართვა
 - საბაზისო I/O

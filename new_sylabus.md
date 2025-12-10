@@ -97,7 +97,9 @@
 - Websocket-ი
 
 # **თავი 20 - არა-რელაციური მონაცემთა ბაზები**
-- document, column, graph, key-value
+- document, column, graph და key-value მონაცემთა ბაზები
+- რელაციური vs არა-რელაციური მონაცემთა ბაზები
+- Scaping + fastapi + mongodb + redis + streamlit
 
 # **თავი 21 - API-ს და მისი ცალკეული ფუნქციონალების ტესტირება, კონტეინერიზაცია**
 - ტესტირება 

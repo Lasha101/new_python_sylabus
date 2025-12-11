@@ -72,12 +72,12 @@
 - FastAPI - CRUD ოპერაციები, models, schemas, main ... - ფაილების მენეჯმენტი
 
 
-# **თავი 17 - Postgresql**
+# **თავი 17 - FastAPI, Postgresql**
 - PostgreSQL-ი,  Postman-ი
 - რეგისტრაცია და აუთენტიფიკაცია-JWT Tokens
 
 
-# **თავი 18 - FastAPI - real-time app**
+# **თავი 18 - FastAPI**
 - პაგინაცია, ფილტრაცია
 - ავტორიზაცია
 
@@ -85,7 +85,7 @@
 - Redis ქეშირება
 - ასინქრონული FastAPI, Websocket-ი
 
-# **თავი 20 - არა-რელაციური მონაცემთა ბაზები**
+# **თავი 20 - FastAPI, არა-რელაციური მონაცემთა ბაზები**
 - document, column, graph და key-value მონაცემთა ბაზები თეორიულად, რელაციური vs არა-რელაციური
 - fastapi + mongodb
 

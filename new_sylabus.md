@@ -83,13 +83,13 @@
 
 
 # **თავი 17 - Postgresql**
-- ACID პრინციპები(სესია ...) და PostgreSQL-ი
+- PostgreSQL-ი
 - რეგისტრაცია და აუთენტიფიკაცია-JWT Tokens, Postman-ი
 
 
 # **თავი 18 - FastAPI - real-time app**
-- SOLID პინციპები
-- პაგინაცია, ფილტრაცია და ავტორიზაცია(დავალება: SOLID პრინციპების გამოყენებით გადააკეთონ სემინარზე განზრახ ცუდად დაწერილი კოდი)
+- პაგინაცია, ფილტრაცია და ავტორიზაცია
+- როლებზე გაფუძნებული ავტორიზაცია
 
 # **თავი 19 - FastAPI - real-time app**
 - Redis ქეშირება
@@ -97,9 +97,9 @@
 - Websocket-ი
 
 # **თავი 20 - არა-რელაციური მონაცემთა ბაზები**
-- document, column, graph და key-value მონაცემთა ბაზები
+- document, column, graph და key-value მონაცემთა ბაზები თეორიულად
 - რელაციური vs არა-რელაციური მონაცემთა ბაზები
-- Scaping + fastapi + postgresql + mongodb + redis + streamlit
+- Scaping + fastapi + postgresql + mongodb + redis
 
 # **თავი 21 - API-ს და მისი ცალკეული ფუნქციონალების ტესტირება, კონტეინერიზაცია**
 - ტესტირება 

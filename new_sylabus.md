@@ -71,7 +71,7 @@
 
 
 # **თავი 17 - FastAPI, Postgresql**
-- PostgreSQL-ი, - Postman-ი
+- PostgreSQL-ი, Postman-ი
 - რეგისტრაცია და აუთენტიფიკაცია-JWT Tokens
 
 

@@ -2,8 +2,8 @@
 - ლოკალური სამუშაო გარემოს გამართვა, პითონის და VSCode-ის ინსტალაცია, pip, ვირტუალური გარემო
 - კომპიუტერის არქიტექტურა, CPU, RAM, SSD
 - CPU ლიმიტირებული პროცესები - CPU bound
-- stack და heap მეხსიერება, numpy: ვექტორიზაცია, array vs list, CPU cache vs RAM, SISD vs SIMD
-- Pandas, Matplotlib
+- polars: stack და heap მეხსიერება, ვექტორიზაცია, pl.Series vs list, CPU cache vs RAM, SISD vs SIMD
+
 
 # **თავი 14 - SQL**
 - შესავალი რელაციურ მონაცემთა ბაზებში-SQLite, CRUD ოპერაციები
@@ -12,9 +12,9 @@
 
 # **თავი 15 - კომპიუტერი, სერვერი, Linux-ი და კონკურენტული პროცესირება**
 - RAM ლიმიტირებული პროცესები - ასინქრონულობა
-- Git-ი, GitHub-ი
 - BIOS, ოპერაციული სისტემები(ლინუქსი)
-- ინტერნეტი, ბრაუზერი, HTTP/HTTPS პროტოკოლების და HTML, CSS და JS-ის მიმოხილვა
+- ინტერნეტი, ბრაუზერი, HTTP/HTTPS პროტოკოლების და HTML და CSS მიმოხილვა
+- Git-ი, GitHub-ი
 
 # **თავი 16 - FastAPI - შესავალი**
 - შესავალი FastAPI-ში, SQLAlchemy(ORM + SQLite), Pydantic-ი და Uvicorn-ი

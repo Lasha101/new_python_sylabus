@@ -2,7 +2,7 @@
 - ლოკალური სამუშაო გარემოს გამართვა, პითონის და VSCode-ის ინსტალაცია, pip, ვირტუალური გარემო
 - კომპიუტერის არქიტექტურა - CPU, RAM, SSD; BIOS, OS, VM, Compiling vs Interpreting vs Jit
 - CPU ლიმიტირებული პროცესები - CPU bound
-- polars: stack და heap მეხსიერება, ვექტორიზაცია, pl.Series vs list
+- Polars: stack და heap მეხსიერება, ვექტორიზაცია, pl.Series vs list
 - CPU cache vs RAM, SISD vs SIMD, lazy evaluation
 
 

@@ -5,7 +5,6 @@
 - Polars: stack და heap მეხსიერება, ვექტორიზაცია, pl.Series vs list
 - CPU cache vs RAM, SISD vs SIMD, lazy evaluation
 
-
 # **თავი 14 - SQL**
 - შესავალი რელაციურ მონაცემთა ბაზებში-SQLite, CRUD ოპერაციები
 - რელაციები - ურთიერთკავშირები ცხრილებს შორის

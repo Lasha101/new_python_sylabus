@@ -72,7 +72,6 @@
 
 # **თავი 17 - FastAPI, Postgresql**
 - PostgreSQL-ი, ტრანზაქციის ACID თვისებები
-- Postman-ი
 - რეგისტრაცია და აუთენტიფიკაცია-JWT Tokens
 
 # **თავი 18 - FastAPI**
@@ -90,9 +89,9 @@
 - fastapi + mongodb
 
 # **თავი 21 -  OOP-ს და პროგრამირების "ოქროს წესები"**
-- SOLID
-- DRY, KISS, YAGNI
-  
+- SOLID, DRY, KISS, YAGNI
+- Postman
+
 # **თავი 22 - API-ს და მისი ცალკეული ფუნქციონალების ტესტირება, კონტეინერიზაცია**
 - ტესტირება 
 - VM-ვირტუალური მანქანა, Docker-ი და Docker Compose-ი

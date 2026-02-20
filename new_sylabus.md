@@ -75,30 +75,30 @@
 - რეგისტრაცია და აუთენტიფიკაცია-JWT Tokens
 
 # **თავი 18 - FastAPI**
+- ფაილების მენეჯმენტი
+- სერვერის გატესტვა
+  
+# **თავი 19 - FastAPI**
 - პაგინაცია, ფილტრაცია
 - ავტორიზაცია
 
-# **თავი 19 - FastAPI - real-time app**
+# **თავი 20 - FastAPI - real-time app**
 - Redis ქეშირება
-- ასინქრონული FastAPI
-- Websocket-ი
+- ასინქრონული FastAPI, Websocket-ი
 
-# **თავი 20 - FastAPI, არა-რელაციური მონაცემთა ბაზები**
+# **თავი 21 - FastAPI, არა-რელაციური მონაცემთა ბაზები**
 - document, column, graph და key-value მონაცემთა ბაზები თეორიულად, რელაციური vs არა-რელაციური
 - Scrapping
 - fastapi + mongodb
-
-# **თავი 21 -  OOP-ს და პროგრამირების "ოქროს წესები"**
 - SOLID, DRY, KISS, YAGNI
-- Postman
 
 # **თავი 22 - API-ს და მისი ცალკეული ფუნქციონალების ტესტირება, კონტეინერიზაცია**
-- ტესტირება 
+- Postman, ტესტირება 
 - VM-ვირტუალური მანქანა, Docker-ი და Docker Compose-ი
 
 # **თავი 23 - პროექტის სრული ციკლი: აპლიკაციის დანერგვა და გაშვება**
-- CI/CD Pipeline-ი
-- მასშტაბირება(Nginx ...) და უსაფრთხოება
+- CI/CD Pipeline-ი, მასშტაბირება(Nginx ...) და უსაფრთხოება
+- GitHub actions, AWS
 
 # **თავი 24 - Django**
 - შესავალი Django-ში, Django Admin-ი, Models, Views, Templates
